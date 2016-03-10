@@ -1,2 +1,3 @@
 # hello-world
-first trial repository
+Hi Humans!!
+I am trying new features.
